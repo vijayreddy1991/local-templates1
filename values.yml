@@ -1,0 +1,12 @@
+GitRepo:
+  name: myGitRepo
+  gitProvider: Github
+  path: rahulnlb1/local-templates1
+  branches:
+    include: master
+ 
+ Pipeline:
+  name: my-pipeline-template-1
+ 
+ Step1:
+  name: step-1
