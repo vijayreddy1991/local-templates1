@@ -5,8 +5,8 @@ GitRepo:
   branches:
     include: master
  
- Pipeline:
+Pipeline:
   name: my-pipeline-template-1
- 
- Step1:
+
+Step1:
   name: step-1
