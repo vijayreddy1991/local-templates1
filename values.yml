@@ -6,7 +6,7 @@ GitRepo:
     include: master
  
 Pipeline:
-  name: my-pipeline-template-1
+  name: my-pipeline-template1
 
 Step1:
-  name: step-1
+  name: step1
