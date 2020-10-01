@@ -18,5 +18,6 @@ pipelines:
         execution:
           onExecute:
             - echo "Executing Step ${step_name}"
+            - echo "Hello world"
           onComplete:
             - echo "${step_name} Completed"
