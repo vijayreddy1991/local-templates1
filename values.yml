@@ -3,7 +3,7 @@ GitRepo:
   gitProvider: Github
   path: rahulnlb1/local-templates1
   branches:
-    include: master
+    include: {{ gitBranch }}
  
 Pipeline:
   name: mypipelinetemplate1
