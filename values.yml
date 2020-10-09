@@ -8,5 +8,6 @@ GitRepo:
 Pipeline:
   name: mypipelinetemplate1
 
+
 Step1:
   name: step1
