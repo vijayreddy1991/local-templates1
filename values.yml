@@ -1,7 +1,7 @@
 GitRepo:
   name: myGitRepo
   gitProvider: Github
-  path: rahulnlb1/local-templates1
+  path: vijayreddy1991/local-templates1
   branches:
     include: {{ gitBranch }}
  
